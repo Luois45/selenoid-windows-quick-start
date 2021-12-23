@@ -1,0 +1,2 @@
+cm selenoid start
+pause
